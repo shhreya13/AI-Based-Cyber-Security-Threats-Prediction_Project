@@ -431,6 +431,5 @@ If you found this project helpful, please give it a ⭐️!
 
 <div align="center">
 
-**Built with ❤️ by [Sanjay]**
 
 </div>
